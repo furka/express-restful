@@ -1,6 +1,6 @@
 {
   "name": "express-restful",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An Express js restful API router",
   "main": "express-restful.js",
   "scripts": {
