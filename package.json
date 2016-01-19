@@ -1,0 +1,34 @@
+{
+  "name": "express-restful",
+  "version": "0.0.0",
+  "description": "An Express js restful API router",
+  "main": "express-restful.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furka/express-restful.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "restful",
+    "api"
+  ],
+  "author": "Thomas Vranckx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furka/express-restful/issues"
+  },
+  "homepage": "https://github.com/furka/express-restful#readme",
+  "dependencies": {
+    "jsondiffpatch": "^0.1.38",
+    "mongoskin": "^2.0.3",
+    "shortid": "^2.2.4",
+    "underscore": "^1.8.3"
+  },
+  "peerDependencies": {
+    "express": "~4.0"
+  }
+}
